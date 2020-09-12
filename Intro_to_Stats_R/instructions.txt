@@ -1,0 +1,4 @@
+1. Read in the data into R.  This file contains ages and salaries of various people.
+2. Use the "str" command, to determine the number of observations in the dataset.
+3. Access each column in the dataset (Hint: use the '$' sign).  Then use the "mean" command, to compute the average age and the average salary in this dataset.
+4. Also, compute the standard deviation of the age and salaries, by using the "sd" command.
